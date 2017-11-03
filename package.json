@@ -1,0 +1,27 @@
+{
+  "name": "no-react-prop-types",
+  "version": "1.0.0",
+  "description": "CoffeeLint rule no-react-prop-types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherbolt/no-react-prop-types.git"
+  },
+  "keywords": [
+    "coffeelint",
+    "react",
+    "propTypes"
+  ],
+  "author": "Daniel Herbolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherbolt/no-react-prop-types/issues"
+  },
+  "homepage": "https://github.com/dherbolt/no-react-prop-types#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7"
+  }
+}
