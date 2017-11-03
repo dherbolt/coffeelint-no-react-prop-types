@@ -1,5 +1,5 @@
 {
-  "name": "no-react-prop-types",
+  "name": "coffeelint-no-react-prop-types",
   "version": "1.0.0",
   "description": "CoffeeLint rule no-react-prop-types",
   "main": "index.js",

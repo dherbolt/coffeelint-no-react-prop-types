@@ -3,7 +3,7 @@
     <type>org.netbeans.modules.web.clientproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
-            <name>no-react-prop-types</name>
+            <name>coffeelint-no-react-prop-types</name>
         </data>
     </configuration>
 </project>
