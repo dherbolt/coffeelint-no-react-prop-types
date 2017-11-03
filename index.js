@@ -1,2 +1,2 @@
  require('coffee-script');
- module.exports = require('./no-react-create-class.coffee');
+ module.exports = require('./no-react-prop-types.coffee');
